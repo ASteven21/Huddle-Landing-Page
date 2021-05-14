@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](github.com/ASteven21/Huddle-Landing-Page)
-- Live Site URL: [Live Web](asteven21.github.io/Huddle-Landing-Page)
+- Solution URL: [Solution](https://github.com/ASteven21/Huddle-Landing-Page)
+- Live Site URL: [Live Web](https://asteven21.github.io/Huddle-Landing-Page/)
 
 ## My process
 
